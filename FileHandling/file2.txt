@@ -1,0 +1,4 @@
+alex, 100
+tom, 200
+alice, 300
+new, 200

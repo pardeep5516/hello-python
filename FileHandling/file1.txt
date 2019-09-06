@@ -1,0 +1,4 @@
+alex 's  salary  100
+'tom 's  salary  200
+'alice 's  salary  300
+'new 's  salary  200'
